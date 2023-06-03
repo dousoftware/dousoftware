@@ -1,6 +1,12 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-hi, i'm Doğukan ÇAĞLAKPINAR, I am a mobile application developer living in Turkey. I wrote desktop programs in Visual Basic language. I created websites with Adobe Dreamweawer. But the mobile world has always been different for me. In the mobile world where I logged in with Java, I now write both Android and iOS applications with Dart language. Flutter offers a very fun and enjoyable programming experience. I am really happy when coding in Flutter. I continue my career as Flutter Developer.  
+Merhaba, ben Doğukan. Lise dönemim de duyduğum Android kelimesi ile programlama dünyasına adım attım. Java ile Android tabanlı uygulamalar ve Visual Basic ile masaüstü tabanlı uygulamalar geliştirdim. Günümüzde Flutter’ı benimsedim ve hem mobil(Android + iOS) hem de masaüstü(Windows + MacOS) tabanlı uygulamalar geliştirmeye devam ediyorum. Ayrıca Tamindir, WebTekno, MerlininKazanı, TeknoBurada, Turkmmo vs. gibi web sitelerinde oyun, teknoloji ve programlama odaklı makaleler yayımladım. Şuanda da Medium üzerinde Flutter programlama odaklı makaleler yayımlamaktayım. 
+
+Français
+Bonjour, je m’appelle Doğukan. Au lycée j’ai entendu le mot « Android » qui a attiré mon attention et cela m’a permis d’entrer dans le monde de la programmation. J'ai développé principalement des applications basées sur Android avec Java et des applications de bureau avec Visual Basic. Aujourd'hui, je me suis adopté à utiliser Flutter et je continue de développer des applications mobiles (Android + iOS) et de bureau (Windows + MacOS). J'ai également publié des articles sur les jeux, la technologie et la programmation sur des sites Web tels que Tamindir, WebTekno, MerlininKazani, TeknoBurada, Turkmmo etc. Je suis aussi auteur des articles qui traitent de la programmation Flutter au sein de Medium.
+
+English
+Hello, my name is Doğukan. In high school I heard the word "Android" which caught my attention and that got me into the world of programming. I mainly developed Android-based applications with Java and desktop applications with Visual Basic. Today, I've adopted Flutter and continue to develop mobile (Android + iOS) and desktop (Windows + MacOS) applications. I've also published articles on gaming, technology and programming on websites such as Tamindir, WebTekno, MerlininKazani, TeknoBurada, Turkmmo etc. I am also the author of articles on Flutter programming for Medium.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
