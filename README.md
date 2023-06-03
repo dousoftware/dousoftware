@@ -8,6 +8,8 @@ Bonjour, je m’appelle Doğukan. Au lycée j’ai entendu le mot « Android » 
 English
 Hello, my name is Doğukan. In high school I heard the word "Android" which caught my attention and that got me into the world of programming. I mainly developed Android-based applications with Java and desktop applications with Visual Basic. Today, I've adopted Flutter and continue to develop mobile (Android + iOS) and desktop (Windows + MacOS) applications. I've also published articles on gaming, technology and programming on websites such as Tamindir, WebTekno, MerlininKazani, TeknoBurada, Turkmmo etc. I am also the author of articles on Flutter programming for Medium.
 
+Medium: https://medium.com/@dogukancaglakpinar
+
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
